@@ -1,4 +1,13 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xinyangli&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<a href="(https://github.com/anuraghazra/github-readme-stats" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api?username=xinyangli&theme=dracula&count_private=true" alt="xinyangli's GitHub stats" height="185px">
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xinyangli&layout=compact&theme=dracula" alt="Top Langs" height="185px">
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xinyangli&theme=dracula&layout=compact&langs_count=8&include_all_commits=true" alt="Top Langs" height="185px">
+</a>
+
 <!--
 **xinyangli/xinyangli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
