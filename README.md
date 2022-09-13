@@ -1,11 +1,9 @@
 <a href="(https://github.com/anuraghazra/github-readme-stats" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api?username=xinyangli&theme=dracula&count_private=true" alt="xinyangli's GitHub stats" height="185px">
+  <img src="https://github-readme-stats.vercel.app/api?username=xinyangli&theme=dracula&count_private=true&show_icons=true&include_all_commits=true" alt="xinyangli's GitHub stats" height="170px">
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xinyangli&layout=compact&theme=dracula" alt="Top Langs" height="185px">
-</a>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xinyangli&theme=dracula&layout=compact&langs_count=8&include_all_commits=true" alt="Top Langs" height="185px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xinyangli&theme=dracula&layout=compact&langs_count=8&include_all_commits=true" alt="Top Langs" height="170px">
 </a>
 
 <!--
