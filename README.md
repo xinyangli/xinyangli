@@ -15,8 +15,8 @@
 
 <h3 align="center">Find me at 👇</h3>
 <p align="center">
-  <a href="https://xinyang.life/@me"><img src="./assets/mastodon.svg" height=30px width=50px/></a>
+  <a href="https://gts.xiny.li/@xin"><img src="./assets/mastodon.svg" height=30px width=50px/></a>
   <a href="mailto:lixinyang411@gmail.com"><img src="./assets/gmail.png" height=30px width=30px/></a>
   <a href="https://t.me/xinyang_li"><img src="./assets/telegram.svg" height=30px width=50px/></a>
-  <a href="https://git.xinyang.life/"><img src="./assets/forgejo.svg" height=30px width=30px/></a>
+  <a href="https://git.xiny.li/"><img src="./assets/forgejo.svg" height=30px width=30px/></a>
 </p>
